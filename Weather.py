@@ -5,8 +5,8 @@ import requests
 # для обработки json-объектов
 import json
 
-bot = telebot.TeleBot("7279368522:AAHpY0pl2uv0D3huE6sbY5ljZ8qTCoCJEmI")
-API = '79d1ca96933b0328e1c7e3e7a26cb347'
+bot = telebot.TeleBot("12345678:ПАОПАЫПОлавлмсчидмсДМВЫДЛсалвмлЛЛаывпд")
+API = '684569шЛПдлВлпЛОП9435ь'
 
 # приветственный текст
 start_txt = ('Привет! Это бот прогноза погоды. '
